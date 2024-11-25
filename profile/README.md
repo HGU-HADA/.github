@@ -1,19 +1,10 @@
-## Hi there 👋
+# Team HADA
+Name: HADA (Handong Autonomous Driving Avengers)
+Every repository is managed under private condition
 
-<!--
-
-🙋‍♀️ A short introduction -HADA (Handong Autonomous Driving Avengers)
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - Every repository is managed under private condition
-🍿 Fun facts - Apply HADA
--->
-
-## Team HADA
-
-School of Mechanical and Control Engineering, Handong Global University, Pohang
+## Based School of Mechanical and Control Engineering, Handong Global University, Pohang
 
 ### Objective
-
 1. Autonomous Vehicle Control
 2. Sensor Interface
   * GPS
@@ -22,10 +13,6 @@ School of Mechanical and Control Engineering, Handong Global University, Pohang
   * Camera
 3. Embedded System (Circuit Design/ MCU programming)
 4. Situational Awareness
-
-<p><img src="../img/HADA3.jpg" alt="HADA3" style="zoom: 50%;" />HADA 3</p>
-
-<p><img src="../img/HADA4.jpg" alt="HADA4" style="zoom: 50%;" />HADA 4</p>
 
 ### Equipment
 
@@ -45,3 +32,8 @@ School of Mechanical and Control Engineering, Handong Global University, Pohang
 5. Embedded Programming
 6. Circuits
 7. Hardware design
+
+
+<p><img src="../img/HADA3.jpg" alt="HADA3" style="zoom: 50%;" />HADA 3</p>
+
+<p><img src="../img/HADA4.jpg" alt="HADA4" style="zoom: 50%;" />HADA 4</p>
